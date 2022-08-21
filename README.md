@@ -1,11 +1,11 @@
 # petStore
 ## Back-End part:
-We work with the laravel frame work with the Mysql database
-We use the snactum package to prepare API for the authentication part
-Create a MySQL database(create table)
-We prepare APIs for the methods of register login and logout data for user
-Makes the migration and then we make the test with postman.
-Create post ,edit delete as the previous part we make the migration then we make the test
+We work with the laravel frame work with the Mysql database =>
+We use the snactum package to prepare API for the authentication part=>
+Create a MySQL database(create table)=>
+We prepare APIs for the methods of register login and logout data for user=>
+Makes the migration and then we make the test with postman.=>
+Create post ,edit delete as the previous part we make the migration then we make the test=>
   
   
 
